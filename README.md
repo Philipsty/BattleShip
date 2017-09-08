@@ -16,3 +16,8 @@ Rules:
 Testing
 ---------------------------------------
 Unit test cases created for testing classes.
+
+
+![b1](https://user-images.githubusercontent.com/16392778/30193404-ef9f4dea-941a-11e7-8471-6eb04aed1256.PNG)
+![b2](https://user-images.githubusercontent.com/16392778/30193432-113abe80-941b-11e7-83ee-3ef2da75574d.PNG)
+![b3](https://user-images.githubusercontent.com/16392778/30193447-1cac506c-941b-11e7-8228-cfef29ffa3ac.PNG)
